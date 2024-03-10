@@ -1,0 +1,15 @@
+{
+  "name": "string-calculator-kata",
+  "version": "1.0.0",
+  "main": "main.js",
+  "repository": "git@github.com:shinetools/string-calculator-kata.git",
+  "author": "Frederic Cabassut <frederic.cabassut@shine.fr>",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^29.7.0"
+  },
+  "type": "module",
+  "scripts": {
+    "test": "jest --watchAll"
+  }
+}
